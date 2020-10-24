@@ -1,5 +1,6 @@
 {
 	"dependencies": {
+		"d3": "^6.2.0",
 		"parcel": "^1.12.4"
 	},
 	"scripts": {
